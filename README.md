@@ -1,4 +1,5 @@
-Industry Standard code 
-Spring MVC
-Spring Annotation and Custom Annotations are used
-Exception handling
+Industry Standard code <br>
+Spring MVC<br>
+Spring Annotation and Custom Annotations are used<br>
+Exception handling<br>
+
